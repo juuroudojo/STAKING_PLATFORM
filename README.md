@@ -1,1 +1,5 @@
-Staking contract on Goerli: https://goerli.etherscan.io/address/0x81682a8140Ae5D28d9a88DfAc6aECC930DE3973d BBT Token on Goerli: https://goerli.etherscan.io/address/0x57416132eC5E29E78dF198d4bc42D12769D409AB UNISWAPV2 PAIR on Goerli: https://goerli.etherscan.io/address/0xC69067F9267ce183DC57CA7e1Ef318cDd137569D WETH on Goerli: https://goerli.etherscan.io/address/0x57Ea1F4d30cCfE047b5bDF593CFEED3Cd56Ea086
+### Contracts deployed and verified on Goerli Testnet
+- [Staking](https://goerli.etherscan.io/address/0x81682a8140Ae5D28d9a88DfAc6aECC930DE3973d) 
+- [BBT Token](https://goerli.etherscan.io/address/0x57416132eC5E29E78dF198d4bc42D12769D409AB)
+- [UNISWAPV2 PAIR](https://goerli.etherscan.io/address/0xC69067F9267ce183DC57CA7e1Ef318cDd137569D)
+- [WETH Token](https://goerli.etherscan.io/address/0x57Ea1F4d30cCfE047b5bDF593CFEED3Cd56Ea086)
