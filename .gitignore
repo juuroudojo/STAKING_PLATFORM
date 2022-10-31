@@ -1,0 +1,14 @@
+
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+abi.json
+BBTABI.json
+
+#Hardhat files
+cache
+artifacts
+
+node_modules
