@@ -1,4 +1,4 @@
-#𝗗𝗘𝗦𝗖𝗥𝗜𝗣𝗧𝗜𝗢𝗡
+# 𝗗𝗘𝗦𝗖𝗥𝗜𝗣𝗧𝗜𝗢𝗡
 - Staking Platform allows users to earn allocations by staking the asset for a fixed period of time
 - Liquidity pool of BBT and WETH is provided by UNISWAPV2
 
