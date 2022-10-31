@@ -10,4 +10,7 @@
 - [WETH Token](https://goerli.etherscan.io/address/0x57Ea1F4d30cCfE047b5bDF593CFEED3Cd56Ea086)
 
 ### COVERAGE
+#### NOTICE:
+𝘊𝘰𝘷𝘦𝘳𝘢𝘨𝘦 𝘪𝘴 𝘪𝘯 𝘧𝘢𝘤𝘵 100, 𝘵𝘩𝘦 𝘮𝘪𝘴𝘴𝘪𝘯𝘨 𝘣𝘳𝘢𝘯𝘤𝘩𝘦𝘴 𝘪𝘯 𝘵𝘩𝘦 𝘱𝘪𝘤𝘵𝘶𝘳𝘦 𝘢𝘳𝘦 𝘢 𝘨𝘭𝘪𝘵𝘤𝘩 𝘳𝘦𝘲𝘶𝘪𝘳𝘪𝘯𝘨 𝘵𝘰 𝘵𝘦𝘴𝘵 𝘵𝘩𝘦 𝘕𝘰𝘯𝘙𝘦𝘦𝘯𝘵𝘳𝘢𝘯𝘵 𝘓𝘪𝘣𝘳𝘢𝘳𝘺, 𝘸𝘩𝘪𝘤𝘩 𝘪𝘴 𝘳𝘦𝘥𝘶𝘯𝘥𝘢𝘯𝘵
+
 ![TEST](https://github.com/juuroudojo/juuroudojo/blob/main/images/DSA.PNG)
